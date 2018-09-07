@@ -7,6 +7,7 @@ http://chir.ag/projects/name-that-color/ - Name Color;
 http://kenwheeler.github.io/slick/ - Slick Slider;
 https://www.flaticon.com/ - Flaticon;
 https://www.templatemonster.com - шаблоны платные
+http://animista.net - анимации js
 
 
 
