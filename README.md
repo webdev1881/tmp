@@ -6,8 +6,9 @@ https://yoksel.github.io/flex-cheatsheet/ -FlexBox;
 http://chir.ag/projects/name-that-color/ - Name Color;
 http://kenwheeler.github.io/slick/ - Slick Slider;
 https://www.flaticon.com/ - Flaticon;
-https://www.templatemonster.com - шаблоны платные
-http://animista.net - анимации js
+https://www.templatemonster.com - шаблоны платные;
+http://animista.net - анимации js;
+https://www.youtube.com/watch?v=E04x2Q9sxSM - Фиксированное меню (шапка) при прокрутке + анимация
 
 
 
