@@ -6,6 +6,9 @@ https://yoksel.github.io/flex-cheatsheet/ -FlexBox;
 http://chir.ag/projects/name-that-color/ - Name Color;
 http://kenwheeler.github.io/slick/ - Slick Slider;
 https://www.flaticon.com/ - Flaticon;
+https://app.avocode.com - редактор вэб шаблон
+
+https://all-psd.ru/site-templates/ - шаблоны сайтов
 
 
 
