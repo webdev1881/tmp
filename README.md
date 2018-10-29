@@ -48,10 +48,10 @@ https://metanit.com/web/angular2/ - Справочник по Angular2
     "gulp-autoprefixer": "^4.0.0", // css auto --web-kit
     "gulp-cheerio": "^0.6.2", // удаление лишних атрибутов из svg
     "gulp-concat": "^2.6.1", // обьединение файлов
-    "gulp-csscomb": "^3.0.8",
-    "gulp-csso": "^3.0.0",
-    "gulp-if": "^2.0.2",
-    "gulp-load-plugins": "^1.5.0",
+    "gulp-csscomb": "^3.0.8", // "расческа" для css - пробелы, отступы и т.п
+    "gulp-csso": "^3.0.0", // минификатор css
+    "gulp-if": "^2.0.2", // объединяет файлы в поток
+    "gulp-load-plugins": "^1.5.0", // $GLOBAL load
     "gulp-notify": "^3.0.0",
     "gulp-pug": "^3.3.0",
     "gulp-replace": "^0.6.1",
