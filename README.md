@@ -72,4 +72,14 @@ https://metanit.com/web/angular2/ - Справочник по Angular2
 
 
 
+
+YOUTUBE каналы с работы
+CodingTheSmartWay.com
+https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ
+
+
+
+
+
+
 https://git-scm.com/download/win
