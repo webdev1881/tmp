@@ -41,6 +41,14 @@ http://webdesign-master.ru/blog/html-css/2.html - Справочник EMMET с�
 https://www.youtube.com/watch?v=qlueo6wFikM&feature=youtu.be - Быстрая настройка Sublime Text 3 для вёрстки сайтов
 https://metanit.com/web/angular2/ - Справочник по Angular2
 
+
+http://prgssr.ru/ - Новости фронтэнд и ...
+
+
+
+
+
+
   "devDependencies": {
     "browser-sync": "^2.18.12", // localhost:3000
     "del": "^3.0.0", // удаление build
