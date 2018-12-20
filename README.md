@@ -45,7 +45,7 @@ https://metanit.com/web/angular2/ - Справочник по Angular2
 http://prgssr.ru/ - Новости фронтэнд и ...
 https://colorlib.com/wp/free-dashboard-templates/ - ШАБЛОНЫ АДМИН
 
-
+https://onepagelove.com/templates/free-templates - Single Pages FREE templates
 
 
 
